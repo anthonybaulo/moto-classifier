@@ -17,8 +17,8 @@ The best accuracy achieved was 55.3%, which was after the second stage of traini
   - In depth [installation instructions](https://github.com/fastai/fastai/blob/master/README.md#installation)
   - In short: `$ conda install -c pytorch -c fastai fastai`
 - Jupyter Notebook
-  - 'conda install -c anaconda notebook'
-  - Note: JupyterLab will not work with `ImageCleaner` widget
+  - `$ conda install -c anaconda notebook`
+  - *Note*: JupyterLab will not work with `ImageCleaner` widget
 
 ### The Notebooks
 To follow along, go through the notebooks in this order:
